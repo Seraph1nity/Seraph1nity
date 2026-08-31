@@ -1,6 +1,6 @@
 ### about:
 - just a random backend & web development dev turning ideas into code.
-- owner of TBP (the bunker project),most of my pushes are there kek
+- owner of TBP (the bunker project),most of my commits are there kek
 ---
 ### core skills:
 [![skills](https://skillicons.dev/icons?i=rust,nodejs,python,lua,dotnet,arch,sqlite,tauri,robloxstudio&theme=dark)](https://skillicons.dev)
