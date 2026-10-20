@@ -3,12 +3,12 @@
 - owner of TBP (the bunker project),most of my commits are there kek
 ---
 ### core skills:
-[![skills](https://skillicons.dev/icons?i=rust,nodejs,python,lua,dotnet,arch,sqlite,tauri,robloxstudio&theme=dark)](https://skillicons.dev)
-- languages: Rust (my beloved language),Nodejs (fck ur syntax),lua,luaU and C#
+[![skills](https://skillicons.dev/icons?i=rust,nodejs,python,lua,dotnet,arch,sqlite,tauri,c,robloxstudio&theme=dark)](https://skillicons.dev)
+- languages: Rust (my beloved language),Nodejs (fck ur syntax),lua,luaU,C# and C
 - databases: SQLite,Redis,Supabase
 - fav ide: NVim (with lazyvim),Zed
 - fav distro: Arch (i use arch btw)
-- tools: Git,Docker,Eletron,Tauri,linux
+- tools: Git,Docker,Fish,Eletron,Tauri,Linux
 ---
 
 > ![](https://github-readme-stats.shion.dev/api?username=Seraph1nity&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
